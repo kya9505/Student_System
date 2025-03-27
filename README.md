@@ -12,6 +12,15 @@
     </div>
 </div> <br>
 
+<div align="left">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👥 팀원 소개 </h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
+        <p>강창선 <a href="https://github.com/KangChangSeon" target="_blank">#KangChangSeon</a> - 팀장
+        <p>고윤아 <a href="https://github.com/kya9505" target="_blank">#kya9505</a> 
+        <p>정명채 <a href="https://github.com/jyngmyungchae" target="_blank">#jyngmyungchae</a> 
+        <p>정난희 <a href="https://github.com/Eveieve" target="_blank">#Eveieve</a> 
+    </div>
+</div> <br>
 
 
 <div align="left">
